@@ -1,0 +1,8 @@
+name: SkullCratesAPI
+version: '${project.version}'
+main: de.kleesup.minecraft.skullcrates.api.SkullCratesAPI
+api-version: 1.18
+prefix: SkullCratesAPI
+authors: [KleeSup]
+description: The official API for the SkullCrates plugin (link:)
+website: https://github.com/KleeSup/
