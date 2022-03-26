@@ -1,4 +1,4 @@
-package de.kleesup.minecraft.skullcrates.api.io;
+package de.kleesup.minecraft.skullcrates.api.serialization;
 
 import de.kleesup.minecraft.skullcrates.api.SkullCrate;
 

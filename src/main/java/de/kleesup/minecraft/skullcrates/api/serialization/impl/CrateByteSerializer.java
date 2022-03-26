@@ -1,7 +1,7 @@
-package de.kleesup.minecraft.skullcrates.api.io.impl;
+package de.kleesup.minecraft.skullcrates.api.serialization.impl;
 
 import de.kleesup.minecraft.skullcrates.api.SkullCrate;
-import de.kleesup.minecraft.skullcrates.api.io.CrateSerializer;
+import de.kleesup.minecraft.skullcrates.api.serialization.CrateSerializer;
 
 /**
  * @author KleeSup
